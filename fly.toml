@@ -1,0 +1,20 @@
+# fly.toml app configuration file generated for twiliobothpikachu1 on 2025-08-22T14:53:09+06:00
+#
+# See https://fly.io/docs/reference/configuration/ for information about how to use this file.
+#
+
+app = 'twiliobothpikachu1'
+primary_region = 'sea'
+
+[build]
+  dockerfile = 'Dockerfile'
+
+[processes]
+  app = 'python main.py'
+
+[[mounts]]
+  source = 'usersdata'
+  destination = '/app/data'
+
+[[vm]]
+  size = 'performance-16x'
