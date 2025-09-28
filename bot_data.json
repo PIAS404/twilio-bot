@@ -2,20 +2,19 @@
     "twilio_sid": "AC5918ae6b6ad64e5c4553e42df5851253",
     "twilio_token": "e7c1fed70995338283c6f77373783424",
     "authorized_users": [
-        1885689097,
-        7006047421
+        7921994434,
+        5824720843
     ],
     "all_users": [
-        7369164748,
-        1885689097,
-        5755108107,
-        7719900297,
-        7006047421
+        7921994434,
+        5824720843
+       
     ],
-    "bot_link": "https://t.me/wsotp200bot?start=u1885689097",
+    "bot_link": "https://t.me/wsotp200bot?start=u5824720843",
     "channel_username": "BotAccessTask",
     "admin_user_ids": [
-        1885689097,
-        7006047421
+        5824720843,
+        7921994434
     ]
+
 }
