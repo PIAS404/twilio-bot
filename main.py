@@ -20,10 +20,10 @@ from twilio.rest import Client
 from twilio.base.exceptions import TwilioRestException
 
 # --- Configuration ---
-TELEGRAM_BOT_TOKEN = "8345629680:AAFYJtvghhSBdSKZvdmkXwquVei7sExEy2I"
-ADMIN_USER_IDS = [7006047421, 1885689097]
-ADMIN_GROUP_ID = -1002307363883
-YOUR_PUBLIC_ADMIN_ID = "@PIKACHU_0003"
+TELEGRAM_BOT_TOKEN = "8406044266:AAGjItZuDNzNiSMYdTODvCjF4NLj9wW6JnI"
+ADMIN_USER_IDS = [5824720843, 7921994434]
+ADMIN_GROUP_ID = -4812708792
+YOUR_PUBLIC_ADMIN_ID = "@pias7x"
 
 # --- File-based Data Storage ---
 DATA_FOLDER = "data"
@@ -1011,4 +1011,5 @@ def main():
     application.run_polling()
 
 if __name__ == '__main__':
+
     main()
