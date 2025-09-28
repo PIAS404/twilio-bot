@@ -23,7 +23,7 @@ from twilio.base.exceptions import TwilioRestException
 TELEGRAM_BOT_TOKEN = "8406044266:AAGjItZuDNzNiSMYdTODvCjF4NLj9wW6JnI"
 ADMIN_USER_IDS = [7921994434]
 ADMIN_GROUP_ID = -4812708792
-YOUR_PUBLIC_ADMIN_ID = "@pias7x"
+YOUR_PUBLIC_ADMIN_ID = "@fack_baby_fack"
 
 # --- File-based Data Storage ---
 DATA_FOLDER = "data"
@@ -1013,4 +1013,5 @@ def main():
 if __name__ == '__main__':
 
     main()
+
 
