@@ -3,18 +3,19 @@
     "twilio_token": "e7c1fed70995338283c6f77373783424",
     "authorized_users": [
         7921994434,
-        5824720843
+      
     ],
     "all_users": [
         7921994434,
-        5824720843
+        
        
     ],
     "bot_link": "https://t.me/wsotp200bot?start=u5824720843",
     "channel_username": "BotAccessTask",
     "admin_user_ids": [
         5824720843,
-        7921994434
+        
     ]
 
 }
+
